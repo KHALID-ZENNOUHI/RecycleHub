@@ -1,0 +1,24 @@
+.card {
+    margin-top: 50px;
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--wostin-black);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    background-color: var(--wostin-base);
+    border-color: var(--wostin-base);
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--wostin-primary);
+    border-color: var(--wostin-primary);
+  }
